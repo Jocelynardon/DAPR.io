@@ -1,0 +1,46 @@
+E:\Primer Ciclo 2023\INGENIERÍA DE SOFTWARE II\4\DaprCounter\bin\Debug\net7.0\DaprCounter.exe
+E:\Primer Ciclo 2023\INGENIERÍA DE SOFTWARE II\4\DaprCounter\bin\Debug\net7.0\DaprCounter.deps.json
+E:\Primer Ciclo 2023\INGENIERÍA DE SOFTWARE II\4\DaprCounter\bin\Debug\net7.0\DaprCounter.runtimeconfig.json
+E:\Primer Ciclo 2023\INGENIERÍA DE SOFTWARE II\4\DaprCounter\bin\Debug\net7.0\DaprCounter.dll
+E:\Primer Ciclo 2023\INGENIERÍA DE SOFTWARE II\4\DaprCounter\bin\Debug\net7.0\DaprCounter.pdb
+E:\Primer Ciclo 2023\INGENIERÍA DE SOFTWARE II\4\DaprCounter\obj\Debug\net7.0\DaprCounter.csproj.AssemblyReference.cache
+E:\Primer Ciclo 2023\INGENIERÍA DE SOFTWARE II\4\DaprCounter\obj\Debug\net7.0\DaprCounter.GeneratedMSBuildEditorConfig.editorconfig
+E:\Primer Ciclo 2023\INGENIERÍA DE SOFTWARE II\4\DaprCounter\obj\Debug\net7.0\DaprCounter.AssemblyInfoInputs.cache
+E:\Primer Ciclo 2023\INGENIERÍA DE SOFTWARE II\4\DaprCounter\obj\Debug\net7.0\DaprCounter.AssemblyInfo.cs
+E:\Primer Ciclo 2023\INGENIERÍA DE SOFTWARE II\4\DaprCounter\obj\Debug\net7.0\DaprCounter.csproj.CoreCompileInputs.cache
+E:\Primer Ciclo 2023\INGENIERÍA DE SOFTWARE II\4\DaprCounter\obj\Debug\net7.0\DaprCounter.dll
+E:\Primer Ciclo 2023\INGENIERÍA DE SOFTWARE II\4\DaprCounter\obj\Debug\net7.0\refint\DaprCounter.dll
+E:\Primer Ciclo 2023\INGENIERÍA DE SOFTWARE II\4\DaprCounter\obj\Debug\net7.0\DaprCounter.pdb
+E:\Primer Ciclo 2023\INGENIERÍA DE SOFTWARE II\4\DaprCounter\obj\Debug\net7.0\DaprCounter.genruntimeconfig.cache
+E:\Primer Ciclo 2023\INGENIERÍA DE SOFTWARE II\4\DaprCounter\obj\Debug\net7.0\ref\DaprCounter.dll
+E:\Primer Ciclo 2023\INGENIERÍA DE SOFTWARE II\4\DaprCounter\bin\Debug\net7.0\Dapr.Client.dll
+E:\Primer Ciclo 2023\INGENIERÍA DE SOFTWARE II\4\DaprCounter\bin\Debug\net7.0\Google.Api.CommonProtos.dll
+E:\Primer Ciclo 2023\INGENIERÍA DE SOFTWARE II\4\DaprCounter\bin\Debug\net7.0\Google.Protobuf.dll
+E:\Primer Ciclo 2023\INGENIERÍA DE SOFTWARE II\4\DaprCounter\bin\Debug\net7.0\Grpc.Core.Api.dll
+E:\Primer Ciclo 2023\INGENIERÍA DE SOFTWARE II\4\DaprCounter\bin\Debug\net7.0\Grpc.Net.Client.dll
+E:\Primer Ciclo 2023\INGENIERÍA DE SOFTWARE II\4\DaprCounter\bin\Debug\net7.0\Grpc.Net.Common.dll
+E:\Primer Ciclo 2023\INGENIERÍA DE SOFTWARE II\4\DaprCounter\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Primer Ciclo 2023\INGENIERÍA DE SOFTWARE II\4\DaprCounter\obj\Debug\net7.0\DaprCounter.csproj.CopyComplete
+C:\Users\Jocelyn Ardón\Documents\GitHub\DAPR.io\bin\Debug\net7.0\DaprCounter.exe
+C:\Users\Jocelyn Ardón\Documents\GitHub\DAPR.io\bin\Debug\net7.0\DaprCounter.deps.json
+C:\Users\Jocelyn Ardón\Documents\GitHub\DAPR.io\bin\Debug\net7.0\DaprCounter.runtimeconfig.json
+C:\Users\Jocelyn Ardón\Documents\GitHub\DAPR.io\bin\Debug\net7.0\DaprCounter.dll
+C:\Users\Jocelyn Ardón\Documents\GitHub\DAPR.io\bin\Debug\net7.0\DaprCounter.pdb
+C:\Users\Jocelyn Ardón\Documents\GitHub\DAPR.io\bin\Debug\net7.0\Dapr.Client.dll
+C:\Users\Jocelyn Ardón\Documents\GitHub\DAPR.io\bin\Debug\net7.0\Google.Api.CommonProtos.dll
+C:\Users\Jocelyn Ardón\Documents\GitHub\DAPR.io\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\Jocelyn Ardón\Documents\GitHub\DAPR.io\bin\Debug\net7.0\Grpc.Core.Api.dll
+C:\Users\Jocelyn Ardón\Documents\GitHub\DAPR.io\bin\Debug\net7.0\Grpc.Net.Client.dll
+C:\Users\Jocelyn Ardón\Documents\GitHub\DAPR.io\bin\Debug\net7.0\Grpc.Net.Common.dll
+C:\Users\Jocelyn Ardón\Documents\GitHub\DAPR.io\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jocelyn Ardón\Documents\GitHub\DAPR.io\obj\Debug\net7.0\DaprCounter.csproj.AssemblyReference.cache
+C:\Users\Jocelyn Ardón\Documents\GitHub\DAPR.io\obj\Debug\net7.0\DaprCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jocelyn Ardón\Documents\GitHub\DAPR.io\obj\Debug\net7.0\DaprCounter.AssemblyInfoInputs.cache
+C:\Users\Jocelyn Ardón\Documents\GitHub\DAPR.io\obj\Debug\net7.0\DaprCounter.AssemblyInfo.cs
+C:\Users\Jocelyn Ardón\Documents\GitHub\DAPR.io\obj\Debug\net7.0\DaprCounter.csproj.CoreCompileInputs.cache
+C:\Users\Jocelyn Ardón\Documents\GitHub\DAPR.io\obj\Debug\net7.0\DaprCounter.csproj.CopyComplete
+C:\Users\Jocelyn Ardón\Documents\GitHub\DAPR.io\obj\Debug\net7.0\DaprCounter.dll
+C:\Users\Jocelyn Ardón\Documents\GitHub\DAPR.io\obj\Debug\net7.0\refint\DaprCounter.dll
+C:\Users\Jocelyn Ardón\Documents\GitHub\DAPR.io\obj\Debug\net7.0\DaprCounter.pdb
+C:\Users\Jocelyn Ardón\Documents\GitHub\DAPR.io\obj\Debug\net7.0\DaprCounter.genruntimeconfig.cache
+C:\Users\Jocelyn Ardón\Documents\GitHub\DAPR.io\obj\Debug\net7.0\ref\DaprCounter.dll
